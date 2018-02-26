@@ -1,4 +1,4 @@
-#Mon Feb 26 10:18:28 CST 2018
+#Mon Feb 26 12:58:00 CST 2018
 base.0=F\:\\ANDROIDGITHUB\\MeiMei-in-kotlin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
 renamed.0=classes.dex
 file.0=F\:\\ANDROIDGITHUB\\MeiMei-in-kotlin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4\\classes.dex

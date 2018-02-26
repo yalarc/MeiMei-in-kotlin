@@ -6,23 +6,26 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.0.0"
-    timestamp="1519616825991"
+    timestamp="1519621069804"
     token="-4916872876667144232"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="160" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="22" />
     <task
         name="verifier"
-        duration="0" />
+        duration="16" />
 
+    <artifact
+        location="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
     <artifact
         location="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\outputs\apk\debug\app-debug.apk"
         type="SPLIT_MAIN" />
@@ -45,9 +48,6 @@
         location="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
         location="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
@@ -62,8 +62,11 @@
 
     <build
         build-mode="FULL"
-        timestamp="1519616825991"
+        timestamp="1519621069804"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
         <artifact
             location="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
@@ -84,9 +87,6 @@
             type="SPLIT" />
         <artifact
             location="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\intermediates\split-apk\debug\slices\slice_9.apk"

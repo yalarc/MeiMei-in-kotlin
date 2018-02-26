@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:\ANDROIDGITHUB\MeiMei-in-kotlin\DeepNight.iml" filepath="F:\ANDROIDGITHUB\MeiMei-in-kotlin\DeepNight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeiMei-in-kotlin.iml" filepath="$PROJECT_DIR$/MeiMei-in-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\app.iml" filepath="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deeplibrary/deeplibrary.iml" filepath="$PROJECT_DIR$/deeplibrary/deeplibrary.iml" />
+      <module fileurl="file://F:\ANDROIDGITHUB\MeiMei-in-kotlin\deeplibrary\deeplibrary.iml" filepath="F:\ANDROIDGITHUB\MeiMei-in-kotlin\deeplibrary\deeplibrary.iml" />
+    </modules>
+  </component>
+</project>

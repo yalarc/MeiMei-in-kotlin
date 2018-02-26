@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":deeplibrary"><source path="F:\ANDROIDGITHUB\MeiMei-in-kotlin\deeplibrary\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\src\main\assets"/><source path="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\ANDROIDGITHUB\MeiMei-in-kotlin\app\src\debug\assets"/></dataSet></merger>

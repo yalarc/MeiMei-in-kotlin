@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Feb 26 10:18:03 CST 2018
+#Mon Feb 26 11:47:08 CST 2018
 210.set=ANDROID_RESOURCE
 282.file=F\:\\ANDROIDGITHUB\\MeiMei-in-kotlin\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
 14.set=ANDROID_RESOURCE

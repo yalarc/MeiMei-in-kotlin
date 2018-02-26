@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">DeepNight</string>
-    <string name="app_intro">A pure looking App for you</string>
+    <string name="app_name">MeiMei</string>
+    <string name="app_intro">A pure picture App for you</string>
     <string name="drawer_menu_read">分类</string>
     <string name="drawer_menu_options">选项</string>
     <string name="drawer_menu_about">关于</string>

@@ -111,7 +111,7 @@
                     android:gravity="start"
                     android:padding="10dp"
 					android:autoLink="web"
-                    android:text="项目地址:https://github.com/xfhy/DeepNight-in-kotlin"
+                    android:text="项目地址:https://github.com/yalarc/MeiMei-in-kotlin"
                     android:textColor="@color/color_1e1e1e"/>
             </android.support.v7.widget.CardView>
 

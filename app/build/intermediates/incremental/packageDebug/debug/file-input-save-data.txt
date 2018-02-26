@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Feb 26 10:18:30 CST 2018
+#Mon Feb 26 11:47:09 CST 2018
 210.set=JAVA_RESOURCE
 282.file=F\:\\ANDROIDGITHUB\\MeiMei-in-kotlin\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\layout_toolbar.xml
 14.set=ANDROID_RESOURCE
